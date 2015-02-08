@@ -1,0 +1,14 @@
+# Python compiled files
+.pyc
+# SQlite3 database files
+.sqlite3
+# Pycharm project files
+.idea/
+# Staticfiles from Django's collectstatic
+staticfiles/
+# Node modules
+node_modules/
+# Bower componenets
+static/bower_components/
+# Distribution Javascript files
+dist/
